@@ -1,0 +1,298 @@
+[14-Oct-2015 12:52:41 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 241
+[14-Oct-2015 12:53:53 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 241
+[14-Oct-2015 12:56:46 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 243
+[14-Oct-2015 14:47:51 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 243
+[14-Oct-2015 15:03:33 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 102
+[14-Oct-2015 16:40:22 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 102
+[14-Oct-2015 18:19:02 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 73
+[14-Oct-2015 18:34:05 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 73
+[14-Oct-2015 19:05:58 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 125
+[14-Oct-2015 19:17:13 UTC] PHP Fatal error:  Call to undefined function hextobin() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 282
+[14-Oct-2015 19:18:47 UTC] PHP Fatal error:  Call to undefined function pkcs5_pad() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 286
+[16-Oct-2015 12:39:58 UTC] PHP Fatal error:  Call to a member function encrypt() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 276
+[16-Oct-2015 12:41:32 UTC] PHP Fatal error:  Call to a member function encrypt() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 276
+[16-Oct-2015 12:42:51 UTC] PHP Fatal error:  Call to a member function encrypt() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 276
+[16-Oct-2015 12:52:51 UTC] PHP Fatal error:  Using $this when not in object context in /home/nishantcbse/public_html/pp/v1/index.php on line 288
+[26-Oct-2015 19:34:16 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'All Route middleware must be callable' in /home/nishantcbse/public_html/pp/libs/Slim/Route.php:326
+Stack trace:
+#0 /home/nishantcbse/public_html/pp/libs/Slim/Slim.php(432): Slim\Route->setMiddleware(Array)
+#1 /home/nishantcbse/public_html/pp/libs/Slim/Slim.php(471): Slim\Slim->mapRoute(Array)
+#2 /home/nishantcbse/public_html/pp/v1/index.php(325): Slim\Slim->post('/qrcode', 'users', Object(Closure))
+#3 {main}
+  thrown in /home/nishantcbse/public_html/pp/libs/Slim/Route.php on line 326
+[26-Oct-2015 20:02:41 UTC] PHP Fatal error:  Call to a member function setHeaders() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 106
+[27-Oct-2015 13:59:27 UTC] PHP Fatal error:  Call to private method DbHandler::isUserExists() from context '' in /home/nishantcbse/public_html/pp/v1/index.php on line 160
+[27-Oct-2015 14:04:10 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 368
+[27-Oct-2015 14:06:45 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 368
+[27-Oct-2015 14:09:02 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 369
+[27-Oct-2015 14:11:37 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 368
+[27-Oct-2015 14:13:39 UTC] PHP Fatal error:  Call to undefined function getUserIdByEmail() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 387
+[27-Oct-2015 14:14:03 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 363
+[27-Oct-2015 14:14:37 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 363
+[27-Oct-2015 14:17:09 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 440
+[27-Oct-2015 14:28:25 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 371
+[27-Oct-2015 14:36:53 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 372
+[28-Oct-2015 04:30:34 UTC] PHP Fatal error:  Call to undefined method mysqli_result::query() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 13
+[28-Oct-2015 04:31:26 UTC] PHP Fatal error:  Call to undefined method mysqli_result::query() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 16
+[28-Oct-2015 04:31:30 UTC] PHP Fatal error:  Call to undefined method mysqli_result::query() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 16
+[28-Oct-2015 04:33:25 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 134
+[28-Oct-2015 04:33:26 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 134
+[28-Oct-2015 04:35:49 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 134
+[28-Oct-2015 04:35:51 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 134
+[28-Oct-2015 04:35:52 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 134
+[28-Oct-2015 04:35:53 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 134
+[28-Oct-2015 04:35:54 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 134
+[28-Oct-2015 04:35:54 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 134
+[28-Oct-2015 05:36:37 UTC] PHP Fatal error:  Call to undefined method mysqli_result::query() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 16
+[28-Oct-2015 14:06:39 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 79
+[28-Oct-2015 14:09:23 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 82
+[28-Oct-2015 14:09:27 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 82
+[28-Oct-2015 14:12:29 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 82
+[28-Oct-2015 14:30:40 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 100
+[30-Oct-2015 12:27:52 UTC] PHP Fatal error:  Call to a member function post() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 402
+[30-Oct-2015 12:32:15 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 46
+[02-Nov-2015 11:40:08 UTC] PHP Fatal error:  Call to undefined function Respnse() in /home/nishantcbse/public_html/pp/v1/index.php on line 471
+[03-Nov-2015 07:26:22 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 601
+[03-Nov-2015 07:27:44 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 601
+[03-Nov-2015 11:19:55 UTC] PHP Fatal error:  Function name must be a string in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 658
+[03-Nov-2015 11:22:35 UTC] PHP Fatal error:  Function name must be a string in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 658
+[03-Nov-2015 11:27:52 UTC] PHP Fatal error:  Function name must be a string in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 658
+[03-Nov-2015 11:35:36 UTC] PHP Fatal error:  Function name must be a string in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 657
+[05-Nov-2015 10:40:37 UTC] PHP Fatal error:  Call to a member function post() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 482
+[05-Nov-2015 10:50:19 UTC] PHP Fatal error:  Call to a member function post() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 482
+[05-Nov-2015 10:51:56 UTC] PHP Fatal error:  Call to a member function post() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 482
+[05-Nov-2015 10:52:40 UTC] PHP Fatal error:  Call to a member function post() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 482
+[05-Nov-2015 10:54:16 UTC] PHP Fatal error:  Call to a member function post() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 482
+[05-Nov-2015 11:56:12 UTC] PHP Fatal error:  Call to a member function post() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 482
+[06-Nov-2015 06:13:26 UTC] PHP Fatal error:  Function name must be a string in /home/nishantcbse/public_html/pp/v1/index.php on line 943
+[06-Nov-2015 06:14:49 UTC] PHP Fatal error:  Function name must be a string in /home/nishantcbse/public_html/pp/v1/index.php on line 943
+[06-Nov-2015 06:14:51 UTC] PHP Fatal error:  Function name must be a string in /home/nishantcbse/public_html/pp/v1/index.php on line 943
+[06-Nov-2015 06:16:07 UTC] PHP Fatal error:  Function name must be a string in /home/nishantcbse/public_html/pp/v1/index.php on line 943
+[06-Nov-2015 06:16:11 UTC] PHP Fatal error:  Function name must be a string in /home/nishantcbse/public_html/pp/v1/index.php on line 943
+[06-Nov-2015 06:20:01 UTC] PHP Fatal error:  Call to undefined function tuesday() in /home/nishantcbse/public_html/pp/v1/index.php on line 943
+[06-Nov-2015 06:22:03 UTC] PHP Fatal error:  Call to undefined function tuesday() in /home/nishantcbse/public_html/pp/v1/index.php on line 943
+[06-Nov-2015 06:22:06 UTC] PHP Fatal error:  Call to undefined function tuesday() in /home/nishantcbse/public_html/pp/v1/index.php on line 943
+[06-Nov-2015 06:36:55 UTC] PHP Fatal error:  Function name must be a string in /home/nishantcbse/public_html/pp/v1/index.php on line 940
+[06-Nov-2015 06:41:44 UTC] PHP Fatal error:  Function name must be a string in /home/nishantcbse/public_html/pp/v1/index.php on line 939
+[06-Nov-2015 06:42:37 UTC] PHP Fatal error:  Call to undefined function tuesday() in /home/nishantcbse/public_html/pp/v1/index.php on line 942
+[06-Nov-2015 06:42:38 UTC] PHP Fatal error:  Call to undefined function tuesday() in /home/nishantcbse/public_html/pp/v1/index.php on line 942
+[06-Nov-2015 06:49:55 UTC] PHP Fatal error:  Function name must be a string in /home/nishantcbse/public_html/pp/v1/index.php on line 942
+[06-Nov-2015 06:52:04 UTC] PHP Fatal error:  Function name must be a string in /home/nishantcbse/public_html/pp/v1/index.php on line 945
+[06-Nov-2015 06:53:13 UTC] PHP Fatal error:  Function name must be a string in /home/nishantcbse/public_html/pp/v1/index.php on line 945
+[06-Nov-2015 06:53:43 UTC] PHP Fatal error:  Function name must be a string in /home/nishantcbse/public_html/pp/v1/index.php on line 945
+[06-Nov-2015 06:56:07 UTC] PHP Fatal error:  Function name must be a string in /home/nishantcbse/public_html/pp/v1/index.php on line 945
+[06-Nov-2015 06:56:44 UTC] PHP Fatal error:  Call to undefined function tuesday() in /home/nishantcbse/public_html/pp/v1/index.php on line 945
+[06-Nov-2015 12:00:27 UTC] PHP Fatal error:  Call to a member function post() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 934
+[06-Nov-2015 12:01:26 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 934
+[06-Nov-2015 12:04:33 UTC] PHP Fatal error:  Call to a member function post() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 934
+[07-Nov-2015 05:48:43 UTC] PHP Fatal error:  Call to a member function post() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 934
+[07-Nov-2015 05:49:01 UTC] PHP Fatal error:  Call to a member function post() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 934
+[07-Nov-2015 05:49:02 UTC] PHP Fatal error:  Call to a member function post() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 934
+[07-Nov-2015 05:49:12 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 934
+[07-Nov-2015 05:49:13 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 934
+[07-Nov-2015 05:50:33 UTC] PHP Fatal error:  Call to a member function post() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 934
+[07-Nov-2015 05:50:36 UTC] PHP Fatal error:  Call to a member function post() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 934
+[07-Nov-2015 05:53:39 UTC] PHP Fatal error:  Call to a member function post() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 934
+[07-Nov-2015 05:54:50 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 934
+[07-Nov-2015 05:54:53 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 934
+[10-Nov-2015 11:26:07 UTC] PHP Fatal error:  Call to a member function post() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 1203
+[10-Nov-2015 11:28:45 UTC] PHP Fatal error:  Call to a member function post() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 1203
+[10-Nov-2015 11:30:47 UTC] PHP Fatal error:  Call to a member function post() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 1203
+[10-Nov-2015 11:33:29 UTC] PHP Fatal error:  Call to a member function post() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 1203
+[12-Nov-2015 05:04:24 UTC] PHP Fatal error:  Function name must be a string in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 1203
+[12-Nov-2015 05:04:31 UTC] PHP Fatal error:  Function name must be a string in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 1203
+[12-Nov-2015 05:06:11 UTC] PHP Fatal error:  Function name must be a string in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 1203
+[12-Nov-2015 05:06:54 UTC] PHP Fatal error:  Function name must be a string in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 1203
+[12-Nov-2015 05:11:51 UTC] PHP Fatal error:  Function name must be a string in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 1203
+[16-Nov-2015 08:40:40 UTC] PHP Fatal error:  Class 'DbHandler' not found in /home/nishantcbse/public_html/pp/v1/index.php on line 1943
+[17-Nov-2015 07:19:09 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 510
+[18-Nov-2015 11:17:00 UTC] PHP Fatal error:  Call to undefined method DbHandler::productingredient() in /home/nishantcbse/public_html/pp/v1/index.php on line 1515
+[18-Nov-2015 11:17:02 UTC] PHP Fatal error:  Call to undefined method DbHandler::productingredient() in /home/nishantcbse/public_html/pp/v1/index.php on line 1515
+[23-Nov-2015 11:39:29 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 4223
+[25-Nov-2015 06:14:04 UTC] PHP Fatal error:  Call to a member function testtag() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 4186
+[25-Nov-2015 06:14:12 UTC] PHP Fatal error:  Call to a member function testtag() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 4186
+[25-Nov-2015 06:14:38 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4188
+[25-Nov-2015 06:16:12 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4188
+[25-Nov-2015 06:17:33 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4188
+[25-Nov-2015 06:17:46 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4188
+[25-Nov-2015 06:19:11 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4188
+[25-Nov-2015 06:24:19 UTC] PHP Fatal error:  Cannot use object of type mysqli_stmt as array in /home/nishantcbse/public_html/pp/v1/index.php on line 4188
+[25-Nov-2015 09:03:16 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 3928
+[25-Nov-2015 09:07:28 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 3928
+[25-Nov-2015 09:08:09 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 3928
+[25-Nov-2015 09:08:22 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 3928
+[25-Nov-2015 09:09:50 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 3928
+[25-Nov-2015 09:10:35 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 3928
+[25-Nov-2015 09:26:37 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 3928
+[25-Nov-2015 12:09:07 UTC] PHP Fatal error:  Call to undefined method mysqli::lastInsertId() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 3816
+[25-Nov-2015 12:09:35 UTC] PHP Fatal error:  Call to undefined function lastInsertId() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 3816
+[26-Nov-2015 08:45:58 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4256
+[26-Nov-2015 08:50:15 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4256
+[26-Nov-2015 08:50:18 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4256
+[26-Nov-2015 08:52:28 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4256
+[26-Nov-2015 08:52:41 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4256
+[26-Nov-2015 08:54:43 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4256
+[26-Nov-2015 09:04:04 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4256
+[26-Nov-2015 09:11:27 UTC] PHP Fatal error:  Cannot use object of type mysqli_stmt as array in /home/nishantcbse/public_html/pp/v1/index.php on line 4263
+[26-Nov-2015 09:12:43 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4256
+[26-Nov-2015 09:12:46 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4256
+[26-Nov-2015 09:13:38 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4256
+[26-Nov-2015 09:15:27 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4256
+[26-Nov-2015 09:15:45 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4256
+[26-Nov-2015 09:18:29 UTC] PHP Fatal error:  Cannot use object of type mysqli_stmt as array in /home/nishantcbse/public_html/pp/v1/index.php on line 4252
+[26-Nov-2015 09:39:36 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4258
+[26-Nov-2015 09:42:15 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4257
+[26-Nov-2015 09:43:53 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4257
+[26-Nov-2015 09:46:16 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4257
+[26-Nov-2015 09:49:14 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4257
+[26-Nov-2015 09:51:42 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4255
+[26-Nov-2015 09:59:29 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4256
+[26-Nov-2015 10:00:07 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4256
+[26-Nov-2015 10:00:09 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4256
+[26-Nov-2015 10:00:50 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4257
+[26-Nov-2015 10:01:15 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4256
+[26-Nov-2015 10:05:20 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4256
+[26-Nov-2015 10:16:07 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4256
+[26-Nov-2015 10:16:54 UTC] PHP Fatal error:  Function name must be a string in /home/nishantcbse/public_html/pp/v1/index.php on line 4254
+[26-Nov-2015 10:16:56 UTC] PHP Fatal error:  Function name must be a string in /home/nishantcbse/public_html/pp/v1/index.php on line 4254
+[26-Nov-2015 10:18:47 UTC] PHP Fatal error:  Function name must be a string in /home/nishantcbse/public_html/pp/v1/index.php on line 4254
+[26-Nov-2015 10:19:53 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4255
+[26-Nov-2015 10:27:51 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4256
+[26-Nov-2015 10:28:33 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/v1/index.php on line 4256
+[26-Nov-2015 10:45:57 UTC] PHP Fatal error:  Call to undefined method mysqli_result::execute() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 3952
+[26-Nov-2015 10:49:59 UTC] PHP Fatal error:  Call to undefined method mysqli_result::execute() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 3957
+[26-Nov-2015 10:50:04 UTC] PHP Fatal error:  Call to undefined method mysqli_result::execute() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 3957
+[26-Nov-2015 10:51:18 UTC] PHP Fatal error:  Call to undefined method mysqli_result::execute() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 3957
+[26-Nov-2015 10:51:41 UTC] PHP Fatal error:  Call to undefined method mysqli_result::execute() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 3957
+[26-Nov-2015 10:51:43 UTC] PHP Fatal error:  Call to undefined method mysqli_result::execute() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 3957
+[26-Nov-2015 12:42:28 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 32
+[26-Nov-2015 12:43:52 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 35
+[26-Nov-2015 12:43:53 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 35
+[26-Nov-2015 12:44:15 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 35
+[26-Nov-2015 12:44:50 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 35
+[26-Nov-2015 12:48:05 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 36
+[26-Nov-2015 12:50:36 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 35
+[26-Nov-2015 12:50:38 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 35
+[26-Nov-2015 16:36:29 UTC] PHP Fatal error:  Call to undefined method mysqli_result::execute() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 3986
+[26-Nov-2015 16:37:36 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 3986
+[27-Nov-2015 06:21:16 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 151
+[27-Nov-2015 06:26:07 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 151
+[27-Nov-2015 06:26:42 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 151
+[27-Nov-2015 10:23:15 UTC] PHP Fatal error:  Call to undefined function isUserExistsById() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 722
+[27-Nov-2015 10:32:00 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 733
+[27-Nov-2015 10:32:01 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 733
+[27-Nov-2015 10:41:53 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 733
+[27-Nov-2015 10:42:37 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_assoc() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 733
+[27-Nov-2015 10:47:33 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 724
+[27-Nov-2015 10:47:34 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 724
+[27-Nov-2015 10:49:08 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 724
+[27-Nov-2015 10:51:25 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 727
+[27-Nov-2015 19:04:18 UTC] PHP Fatal error:  Call to undefined function validateDate() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 30
+[27-Nov-2015 19:59:01 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 121
+[27-Nov-2015 19:59:03 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 121
+[27-Nov-2015 20:45:16 UTC] PHP Fatal error:  Call to undefined method DbHandler::updateusersesion() in /home/nishantcbse/public_html/pp/v1/index.php on line 152
+[27-Nov-2015 20:45:19 UTC] PHP Fatal error:  Call to undefined method DbHandler::updateusersesion() in /home/nishantcbse/public_html/pp/v1/index.php on line 152
+[27-Nov-2015 20:49:14 UTC] PHP Fatal error:  Call to a member function updateusersesion() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 148
+[28-Nov-2015 11:27:47 UTC] PHP Fatal error:  Call to undefined function get_client_ip() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 328
+[28-Nov-2015 14:06:46 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 407
+[28-Nov-2015 14:06:52 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 407
+[28-Nov-2015 14:07:33 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 407
+[28-Nov-2015 14:53:25 UTC] PHP Fatal error:  Call to undefined method DbHandler::listusers() in /home/nishantcbse/public_html/pp/v1/index.php on line 503
+[28-Nov-2015 14:53:27 UTC] PHP Fatal error:  Call to undefined method DbHandler::listusers() in /home/nishantcbse/public_html/pp/v1/index.php on line 503
+[28-Nov-2015 14:53:28 UTC] PHP Fatal error:  Call to undefined method DbHandler::listusers() in /home/nishantcbse/public_html/pp/v1/index.php on line 503
+[28-Nov-2015 21:06:41 UTC] PHP Fatal error:  Cannot pass parameter 3 by reference in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 299
+[28-Nov-2015 21:07:17 UTC] PHP Fatal error:  Cannot pass parameter 3 by reference in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 299
+[30-Nov-2015 06:41:04 UTC] PHP Fatal error:  Call to undefined function updateuserversion() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 2618
+[30-Nov-2015 06:53:13 UTC] PHP Fatal error:  Call to undefined function updateuserversion() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 2621
+[30-Nov-2015 10:56:38 UTC] PHP Fatal error:  Call to undefined function updateversion() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 2630
+[30-Nov-2015 10:58:03 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 399
+[30-Nov-2015 10:59:10 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 399
+[30-Nov-2015 11:07:03 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 399
+[30-Nov-2015 11:13:36 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 407
+[30-Nov-2015 11:17:19 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 407
+[30-Nov-2015 11:18:02 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 407
+[30-Nov-2015 11:21:02 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 408
+[30-Nov-2015 11:21:50 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 408
+[30-Nov-2015 13:01:36 UTC] PHP Fatal error:  Call to undefined function generateRandomString() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 2589
+[30-Nov-2015 20:14:48 UTC] PHP Fatal error:  Call to a member function uploadFile() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 2727
+[01-Dec-2015 09:49:36 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 4679
+[01-Dec-2015 09:52:31 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 4679
+[01-Dec-2015 09:52:32 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 4679
+[01-Dec-2015 09:52:49 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 4679
+[01-Dec-2015 09:53:55 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 4679
+[01-Dec-2015 09:55:38 UTC] PHP Fatal error:  Call to a member function post() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 4679
+[01-Dec-2015 09:58:33 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 4680
+[01-Dec-2015 10:37:27 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 4687
+[01-Dec-2015 10:52:34 UTC] PHP Fatal error:  Call to undefined method mysqli_result::fetch() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 4517
+[01-Dec-2015 10:53:49 UTC] PHP Fatal error:  Call to undefined method mysqli_result::fetch() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 4517
+[01-Dec-2015 11:03:21 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 4687
+[01-Dec-2015 11:05:44 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 4687
+[01-Dec-2015 11:07:11 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 4687
+[01-Dec-2015 11:07:24 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 4687
+[02-Dec-2015 06:57:33 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 2673
+[02-Dec-2015 07:01:10 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 2673
+[02-Dec-2015 07:05:09 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 2673
+[02-Dec-2015 07:12:25 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 2673
+[02-Dec-2015 07:20:22 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 2677
+[02-Dec-2015 07:22:17 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 2678
+[02-Dec-2015 08:42:00 UTC] PHP Fatal error:  Call to a member function post() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 2780
+[02-Dec-2015 08:43:04 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 2780
+[02-Dec-2015 08:43:12 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 2780
+[02-Dec-2015 11:00:10 UTC] PHP Fatal error:  Call to undefined function alreadydeleted() in /home/nishantcbse/public_html/pp/v1/index.php on line 2763
+[02-Dec-2015 11:01:00 UTC] PHP Fatal error:  Call to a member function alreadydeleted() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 2763
+[03-Dec-2015 11:07:04 UTC] PHP Fatal error:  Call to undefined function searchinfo() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 4586
+[03-Dec-2015 11:07:47 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 4588
+[03-Dec-2015 11:12:50 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 4590
+[03-Dec-2015 11:24:39 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 4588
+[04-Dec-2015 07:20:22 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 648
+[04-Dec-2015 07:22:21 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 648
+[04-Dec-2015 07:28:08 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 648
+[04-Dec-2015 08:34:46 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 648
+[04-Dec-2015 09:02:02 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/nishantcbse/public_html/pp/v1/index.php on line 683
+[04-Dec-2015 09:08:50 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 647
+[04-Dec-2015 09:11:36 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/nishantcbse/public_html/pp/v1/index.php on line 683
+[04-Dec-2015 09:22:10 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 647
+[04-Dec-2015 09:23:21 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 647
+[04-Dec-2015 09:24:40 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 647
+[04-Dec-2015 09:26:00 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 647
+[04-Dec-2015 09:27:36 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 647
+[04-Dec-2015 09:29:20 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 647
+[04-Dec-2015 09:31:58 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 647
+[04-Dec-2015 09:36:29 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 647
+[04-Dec-2015 09:37:37 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 647
+[04-Dec-2015 09:39:42 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 647
+[04-Dec-2015 12:50:45 UTC] PHP Fatal error:  Call to undefined function generateRandomString() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 1101
+[04-Dec-2015 12:52:05 UTC] PHP Fatal error:  Call to undefined function updateversion() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 1104
+[04-Dec-2015 12:53:32 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 1115
+[04-Dec-2015 13:56:58 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 981
+[04-Dec-2015 13:58:22 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 982
+[04-Dec-2015 13:59:58 UTC] PHP Fatal error:  Cannot use object of type mysqli_stmt as array in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 984
+[04-Dec-2015 14:01:39 UTC] PHP Fatal error:  Cannot use object of type mysqli_stmt as array in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 984
+[04-Dec-2015 14:17:53 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 989
+[04-Dec-2015 14:20:58 UTC] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 985
+[04-Dec-2015 21:40:13 UTC] PHP Fatal error:  Call to undefined method mysqli_result::rowCount() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 1006
+[05-Dec-2015 12:57:41 UTC] PHP Fatal error:  Call to undefined method DbHandler::deletepharmacyaccess() in /home/nishantcbse/public_html/pp/v1/index.php on line 692
+[07-Dec-2015 09:39:49 UTC] PHP Fatal error:  Call to undefined method DbHandler::md5() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 2186
+[07-Dec-2015 17:42:47 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 2298
+[08-Dec-2015 09:16:27 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 401
+[08-Dec-2015 09:18:53 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 401
+[08-Dec-2015 09:21:32 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 401
+[08-Dec-2015 09:23:16 UTC] PHP Fatal error:  Call to a member function updateversion() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 4889
+[08-Dec-2015 09:24:02 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 401
+[08-Dec-2015 09:25:07 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 401
+[08-Dec-2015 09:27:51 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 401
+[08-Dec-2015 09:39:01 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 401
+[08-Dec-2015 09:58:11 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 401
+[08-Dec-2015 09:58:48 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 401
+[08-Dec-2015 10:05:22 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 401
+[08-Dec-2015 10:24:10 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 401
+[08-Dec-2015 10:25:15 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 401
+[08-Dec-2015 10:25:21 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 401
+[08-Dec-2015 12:07:53 UTC] PHP Fatal error:  Call to a member function post() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 3322
+[08-Dec-2015 12:09:12 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 3322
+[09-Dec-2015 05:58:53 UTC] PHP Fatal error:  Call to undefined function print_() in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 5137
+[09-Dec-2015 06:07:42 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 5144
+[09-Dec-2015 06:09:20 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 5144
+[09-Dec-2015 09:25:24 UTC] PHP Fatal error:  Call to a member function get() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 5103
+[10-Dec-2015 05:38:28 UTC] PHP Fatal error:  Call to a member function editproductrating() on a non-object in /home/nishantcbse/public_html/pp/v1/index.php on line 2189
+[10-Dec-2015 12:53:08 UTC] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/nishantcbse/public_html/pp/include/DbHandler.php on line 24
